@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mkdir -p "$DESTDIR/etc/"
+cp -rp /etc/cryptsetup-usbkey $DESTDIR/etc/

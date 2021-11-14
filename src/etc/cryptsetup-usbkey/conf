@@ -1,0 +1,7 @@
+# configuration for usbkey decryption
+#
+
+# LABEL(s) of the USB/MMC key partition for decryption (sparated by blanks)
+# as listed in /dev/disk/by-label/
+USBKEY_DISKLABELS=""
+
